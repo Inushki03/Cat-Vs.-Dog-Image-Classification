@@ -1,4 +1,4 @@
-🐱🐶 Cat vs. Dog Image Classification
+###🐱🐶 Cat vs. Dog Image Classification###
 
 This project is a simple Convolutional Neural Network (CNN) implementation to classify images of cats and dogs.
 
